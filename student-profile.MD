@@ -9,10 +9,10 @@ Cohort 1
 
    __Student_TODO:__ 
  
-  I would like to finshed my PHD 
-  I would like to work in Investment department  
-  I would like to Master Microsoft office and coding 
-  I would like to improve myself in fintech  
+  I would like to finshed my PHD    
+  I would like to work in Investment department     
+  I would like to Master Microsoft office and coding     
+  I would like to improve myself in fintech    
 
 ### Student mini-CV:
 
