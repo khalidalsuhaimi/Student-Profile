@@ -1,7 +1,7 @@
 
-< Insert Date >
+7\10\2021
 
-< Insert Name >  
+Khalid Alsuhaimi 
 Cohort 1 
 
 
@@ -9,20 +9,20 @@ Cohort 1
 
    __Student_TODO:__ 
  
-  < What is your career goal? (Think 5 year's from now) >  
-  < Which financial services or products would you like to work with? >  
-  < Which technologies do you want to contrbute to? >  
-  < Which problems or oppertunities do you want to focus on? >  
+  I would like to finshed my PHD 
+  I would like to work in Investment department  
+  I would like to Master Microsoft office and coding 
+  I would like to improve myself in fintech  
 
 ### Student mini-CV:
 
   __Student_TODO:__
 
   - Degrees Completed:    
-        < eg: BSc Computer Science '14, MSc Computer Engineering 15', PhD Finance '21 >
+        Bachelor of finance and management
   - Top 3 Technical skills:    
-        < eg: Excel, Python, Java, SQL, AWS, VBA, PowerPoint, Adobe Illustrator, etc. >
+         Excel, PowerPoint, word
   - Top 3 Personal strengths:   
-       < eg: great team player, personable, professional, natural leader, reliable, hard worker, amazing sense of humor, etc. >
+        professional, reliable, hard worker, 
   - Top 3 Interests in Fintech:    
-       < eg: Algorthmic Trading, Blockchain, Smart Contracts, RegTech (regulations) , InsureTech (insurance), payments & remittence, etc >
+        RegTech (regulations) , InsureTech (insurance), payments & remittence
